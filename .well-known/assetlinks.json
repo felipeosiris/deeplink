@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.planetmedia.paymentsloyalty.chedraui",
+      "sha256_cert_fingerprints": [
+        "28:B8:62:3B:C9:5D:CE:F9:50:92:E2:36:B0:31:FA:33:63:7E:8C:58:D1:DF:5B:42:0F:33:62:33:93:01:AC:BB"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "ios_app",
+      "package_name": "mx.com.chedraui.chedraui",
+      "sha256_cert_fingerprints": [
+        "sha256_de_ios_si_es_necesario"
+      ]
+    }
+  }
+]
